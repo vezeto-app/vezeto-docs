@@ -1,0 +1,40 @@
+Privacy Policy
+
+Last Updated: 08-02-2025
+
+Vezeto ("the App") is committed to protecting your privacy. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information. By using the App, you agree to the terms outlined below.
+
+1. Data Collected
+
+Vezeto does not collect or store any personal data. The only information processed is the client ID obtained from the Google access token used for authentication. Additionally, when using your current location, the App utilizes Overpass API (overpass-api.de) and Vezeto API to retrieve relevant data.
+
+2. Purpose of Data Processing
+
+The client ID is used exclusively for authentication purposes to verify your identity within the App. No additional data is stored or shared. Location data, when used, is processed through Overpass API and Vezeto API for functionality purposes but is not stored.
+
+3. Data Storage and Security
+
+The App does not store any user data on its servers.
+
+The client ID is only used temporarily during the authentication process.
+
+No personal information, such as email addresses, names, or passwords, is collected or retained.
+
+Location data is processed in real-time via Overpass API and Vezeto API but not stored.
+
+4. Third-Party Data Sharing
+
+Vezeto does not share, sell, or distribute any user data to third parties.
+
+5. User Rights
+
+Since no personal data is collected or stored, there are no additional rights required regarding data modification or deletion.
+
+6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted within the App or on our website.
+
+7. Contact
+
+If you have any questions about this Privacy Policy, you can contact us at vezeto.app@gmail.com.
+
