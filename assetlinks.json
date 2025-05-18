@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vezeto.app",
+      "sha256_cert_fingerprints": [
+        "C2:AF:9B:36:06:0D:95:0A:A0:EE:0A:84:F6:02:99:0B:F5:EA:99:AE:7B:94:B5:FC:5F:5C:F6:80:03:45:AF:A2"
+      ]
+    }
+  }
+]
