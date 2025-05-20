@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "com.vezeto.app",
       "sha256_cert_fingerprints": [
-        "30:44:5F:A2:ED:F6:92:7A:C9:D5:46:A0:2A:AC:BB:4D:A8:EA:9F:FC:04:E4:43:BA:93:48:0A:B4:73:5A:54:DA"
+        "30:44:5F:A2:ED:F6:92:7A:C9:D5:46:A0:2A:AC:BB:4D:A8:EA:9F:FC:04:E4:43:BA:93:48:0A:B4:73:5A:54:DA",        "30:44:5F:A2:ED:F6:92:7A:C9:D5:46:A0:2A:AC:BB:4D:A8:EA:9F:FC:04:E4:43:BA:93:48:0A:B4:73:5A:54:DA",
+        "C2:AF:9B:36:06:0D:95:0A:A0:EE:0A:84:F6:02:99:0B:F5:EA:99:AE:7B:94:B5:FC:5F:5C:F6:80:03:45:AF:A2"
       ]
     }
   }
